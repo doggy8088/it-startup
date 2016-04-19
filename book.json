@@ -1,6 +1,6 @@
 {
     
-    "plugins": ["-search","autocover"],
+    "plugins": ["autocover"],
     "title": "Will保哥的IT創業之路",
     "author": "Will Huang",
     "pluginsConfig": {
