@@ -1,5 +1,11 @@
 {
     
-    "plugins": ["-search"]
+    "plugins": ["-search"],
+    "styles": {
+        "website": "styles/website.css",
+        "pdf": "styles/pdf.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+    }
     
 }
