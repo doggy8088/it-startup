@@ -1,5 +1,20 @@
 {
     
-    "plugins": ["-search"]
+    "plugins": ["-search"],
+    "title": "Will保哥的IT創業之路",
+    "author": "Will Huang",
+    "pluginsConfig": {
+        "autocover": {
+            "font": {
+                "size": "1em",
+                "family": "Segoe UI", "微軟正黑體",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            }
+        }
+    }
     
 }
