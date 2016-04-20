@@ -3,11 +3,10 @@
         "betterchinese",
         "pdf-styling"
     ],
-    "styles": {
-        "website": "styles/website.css",
-        "pdf": "styles/pdf.css",
-        "mobi": "styles/mobi.css",
-        "epub": "styles/epub.css"
-    },
-    "pluginsConfig": {}
+    "pluginsConfig": {
+       "search": {
+            "maxIndexSize": 1000
+       }
+    }
+
 }
