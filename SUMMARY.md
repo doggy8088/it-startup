@@ -1,5 +1,3 @@
-# Summary
-
 * [前言](README.md)
 * Part I - 第一次接觸
     * [踏入 IT 業界的緣分](01.md)
