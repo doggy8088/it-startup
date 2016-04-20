@@ -1,7 +1,8 @@
 {
     "plugins": [
         "-search",
-        "betterchinese"
+        "betterchinese",
+        "pdf-styling"
     ],
     "styles": {
         "website": "styles/website.css",
