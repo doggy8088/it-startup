@@ -1,7 +1,7 @@
 {
     "plugins": [
         "-search",
-        "betterchinese"
+        "-betterchinese"
     ],
     "styles": {
         "website": "styles/website.css",
