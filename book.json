@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "betterchinese",
-        "pdf-styling"
+        "betterchinese"
     ],
     "pluginsConfig": {
        "search": {
